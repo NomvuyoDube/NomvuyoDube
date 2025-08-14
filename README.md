@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NomvuyoDube
-- 👀 I’m interested in Web Development, Data Analysis and Environmentalism
-- 🌱 I’m currently learning Linux (Bash) & Python
+- 👀 I’m interested in Data Analysis, Web Development and Environmentalism
+- 🌱 I’m currently learning Linux (Bash), Python & SQL
 - 💞️ I’m looking to collaborate on Anything Fun:)
 - 📫 How to reach me dubenomvuyo26@gmail.com
 - 😄 Pronouns: she/her
